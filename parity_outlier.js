@@ -1,5 +1,5 @@
 //Find The Parity Outlier
-//Level 6kyu
+//Level 6kyu 
 /* Instructions: You are given an array (which will have a length of at least 3, but could be very large) containing
  integers. The integers in the array are either entirely odd or entirely even except for a single integer N. Write a
  method that takes the array as an argument and returns N.
