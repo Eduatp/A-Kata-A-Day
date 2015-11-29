@@ -10,3 +10,5 @@ problems I solve here and I aim to continue this routine for next 180 days.
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
+
+I also post my approach on solving the Kata everyday on my blog: http://a-kata-a-day.blogspot.in/
