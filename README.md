@@ -7,6 +7,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 2. Printer Error
 3. Exes and Ohs
 4. Collatz Conjecture Length
+5. Find smallest integer in the given array
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
