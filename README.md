@@ -10,6 +10,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 5. Find smallest integer in the given array
 6. Insert Dashes
 7. Two to one
+8. Count Consonants
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
