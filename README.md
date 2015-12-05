@@ -11,6 +11,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 6. Insert Dashes
 7. Two to one
 8. Count Consonants
+9. Sum of numbers
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
