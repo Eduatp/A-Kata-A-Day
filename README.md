@@ -12,6 +12,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 7. Two to one
 8. Count Consonants
 9. Sum of numbers
+10. Format String
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
