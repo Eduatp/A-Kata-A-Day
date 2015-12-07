@@ -13,6 +13,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 8. Count Consonants
 9. Sum of numbers
 10. Format String
+11. Digital Root
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
