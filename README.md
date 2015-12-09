@@ -15,6 +15,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 10. Format String
 11. Digital Root
 12. Dubstep
+13. Unique in order
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
