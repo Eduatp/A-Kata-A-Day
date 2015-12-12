@@ -18,6 +18,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 13. Unique in order
 14. Triangle number check
 15. Find odd integer
+16. Playing with digits
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
