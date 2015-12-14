@@ -21,6 +21,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 16. Playing with digits
 17. Summarize ranges
 18. Most frequent count
+19. Area and volume
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
