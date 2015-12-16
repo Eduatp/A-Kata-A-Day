@@ -22,6 +22,8 @@ problems I solve here and I aim to continue this routine for next 180 days.
 17. Summarize ranges
 18. Most frequent count
 19. Area and volume
+20. Divisibilty by 13
+21. Format decimal
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
