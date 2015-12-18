@@ -24,6 +24,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 19. Area and volume
 20. Divisibilty by 13
 21. Format decimal
+22. Factor num
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
