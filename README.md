@@ -25,6 +25,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 20. Divisibilty by 13
 21. Format decimal
 22. Factor num
+23. Maximum length difference
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
