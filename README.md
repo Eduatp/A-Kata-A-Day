@@ -26,6 +26,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 21. Format decimal
 22. Factor num
 23. Maximum length difference
+24. Mumbling
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
