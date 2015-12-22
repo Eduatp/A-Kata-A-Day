@@ -27,6 +27,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 22. Factor num
 23. Maximum length difference
 24. Mumbling
+25. Ghostbusters
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
