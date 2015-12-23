@@ -29,6 +29,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 24. Mumbling
 25. Ghostbusters
 26. Remainder without modulus 
+27. Reversing Fun
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
