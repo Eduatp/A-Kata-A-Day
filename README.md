@@ -30,6 +30,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 25. Ghostbusters
 26. Remainder without modulus 
 27. Reversing Fun
+28. Number Pairs
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
