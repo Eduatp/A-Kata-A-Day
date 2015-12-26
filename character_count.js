@@ -1,5 +1,5 @@
 //Character Counter
-//Level: 7kyu
+//Level:7kyu
 /*
 Problem Description: You are going to be given a word. Your job will be to make sure that each character in that 
 word has the exact same number of occurrences. You will return true if it is valid, or false if it is not.
