@@ -33,6 +33,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 28. Number Pairs
 29. Count the digit
 30. Character count
+31. Array comparator
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
