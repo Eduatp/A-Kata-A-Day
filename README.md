@@ -38,6 +38,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 33. 80's Kids #7 She's a Small Wonder
 34. 80's Kids #3 Punky Brewster's Socks
 35. Going to the cinema
+36. Return String of First Characters
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
