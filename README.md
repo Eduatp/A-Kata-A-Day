@@ -39,6 +39,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 34. 80's Kids #3 Punky Brewster's Socks
 35. Going to the cinema
 36. Return String of First Characters
+37. Split In Parts
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
