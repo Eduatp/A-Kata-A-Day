@@ -40,6 +40,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 35. Going to the cinema
 36. Return String of First Characters
 37. Split In Parts
+38. Integers- Recreation One
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
