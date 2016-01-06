@@ -43,6 +43,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 38. Integers- Recreation One
 39. Equal Sides Of An Array
 40. Divisible Ints
+41. Surrounding Primes for a value
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
