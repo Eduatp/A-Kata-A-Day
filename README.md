@@ -42,6 +42,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 37. Split In Parts
 38. Integers- Recreation One
 39. Equal Sides Of An Array
+40. Divisible Ints
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
