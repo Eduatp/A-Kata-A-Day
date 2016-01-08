@@ -45,6 +45,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 40. Divisible Ints
 41. Surrounding Primes for a value
 42. Alternating Loops
+43. Greatest Position Distance Between Matching Array Values
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
