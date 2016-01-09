@@ -46,6 +46,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 41. Surrounding Primes for a value
 42. Alternating Loops
 43. Greatest Position Distance Between Matching Array Values
+44. Count the divisible numbers
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
