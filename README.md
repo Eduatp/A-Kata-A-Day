@@ -48,6 +48,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 43. Greatest Position Distance Between Matching Array Values
 44. Count the divisible numbers
 45. Triple trouble
+46. X marks the spot!
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
