@@ -51,6 +51,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 46. X marks the spot!
 47. Persistent Bugger
 48. Multiplication Tables
+49. Finding duplicate in an unsorted list in O(n) time
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
