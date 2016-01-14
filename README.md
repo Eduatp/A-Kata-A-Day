@@ -50,6 +50,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 45. Triple trouble
 46. X marks the spot!
 47. Persistent Bugger
+48. Multiplication Tables
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
