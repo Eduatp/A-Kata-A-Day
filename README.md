@@ -52,6 +52,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 47. Persistent Bugger
 48. Multiplication Tables
 49. Finding duplicate in an unsorted list in O(n) time
+50. Backwards Read Primes
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
