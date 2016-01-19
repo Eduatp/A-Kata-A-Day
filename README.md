@@ -56,6 +56,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 51. Find the divisors!
 52. Your order, please
 53. N-th Fibonacci
+54. Multiples of 3 and 5
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
