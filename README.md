@@ -59,6 +59,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 54. Multiples of 3 and 5
 55. Efficient Power Modulo n
 56. Least Common Multiple
+57. Product of consecutive Fib numbers
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
