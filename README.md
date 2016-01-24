@@ -60,6 +60,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 55. Efficient Power Modulo n
 56. Least Common Multiple
 57. Product of consecutive Fib numbers
+58. How many are smaller than me
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
