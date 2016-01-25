@@ -62,6 +62,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 57. Product of consecutive Fib numbers
 58. How many are smaller than me
 59. Rank Vector
+60. Looking for a benefactor
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
