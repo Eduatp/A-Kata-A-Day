@@ -61,6 +61,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 56. Least Common Multiple
 57. Product of consecutive Fib numbers
 58. How many are smaller than me
+59. Rank Vector
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
