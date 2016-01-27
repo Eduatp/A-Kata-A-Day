@@ -63,6 +63,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 58. How many are smaller than me
 59. Rank Vector
 60. Looking for a benefactor
+61. Sum consecutives
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
