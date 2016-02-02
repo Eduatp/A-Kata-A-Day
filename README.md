@@ -64,6 +64,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 59. Rank Vector
 60. Looking for a benefactor
 61. Sum consecutives
+62. Excessively Abundant Numbers
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
