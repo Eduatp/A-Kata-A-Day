@@ -66,6 +66,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 61. Sum consecutives
 62. Excessively Abundant Numbers
 63. Self-Descriptive Numbers
+64. How many twos?
 
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
