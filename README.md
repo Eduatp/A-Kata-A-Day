@@ -67,7 +67,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 62. Excessively Abundant Numbers
 63. Self-Descriptive Numbers
 64. How many twos?
-
+65. Find the next perfect square
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
 
