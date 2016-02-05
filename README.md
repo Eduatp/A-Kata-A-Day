@@ -68,6 +68,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 63. Self-Descriptive Numbers
 64. How many twos?
 65. Find the next perfect square
+66. Next Palindromic Number
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
 
