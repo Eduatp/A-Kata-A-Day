@@ -71,6 +71,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 66. Next Palindromic Number
 67. Remove the minimum
 68. longest_palindrome
+69. Sexy Primes
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
 
