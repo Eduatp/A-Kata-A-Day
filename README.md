@@ -72,6 +72,7 @@ problems I solve here and I aim to continue this routine for next 180 days.
 67. Remove the minimum
 68. longest_palindrome
 69. Sexy Primes
+70. Credit Card Mask
 
 My CodeWars profile: http://www.codewars.com/users/varunu28
 
